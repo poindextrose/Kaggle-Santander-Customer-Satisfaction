@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 *.pickle
 __pycache__/
+duplicate_columns.pickle
