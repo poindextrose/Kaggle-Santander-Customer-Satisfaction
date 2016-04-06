@@ -47,7 +47,7 @@ clf = RandomizedSearchCV(GradientBoostingClassifier(),
                          cv=kfolds,
                          scoring='roc_auc',
                          n_jobs=n_jobs,
-                         verbose=2,
+                         verbose=1,
                          refit=False,
                          error_score=0)
 
