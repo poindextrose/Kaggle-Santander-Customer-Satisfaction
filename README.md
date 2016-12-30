@@ -1,7 +1,3 @@
-This is my first Kaggle competition: [Santanger Customer Satisfaction](https://www.kaggle.com/c/santander-customer-satisfaction). It was a great way to get more comfortable with Sklearn.
-
-My initial data exploration is in 
-
 # Introduction
 
 This repo contains scripts for competing in the [Kaggle Santanter Customer Satisfaction](https://www.kaggle.com/c/santander-customer-satisfaction) competition.
